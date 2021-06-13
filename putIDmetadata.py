@@ -1,8 +1,8 @@
 import exif
 
 
-#this is hard-coded IPFS ID. Exchange for hashcode later.
-imID = 'QmST1gGnExwVp3YoLTFuPP8kQGnWpvmjPypLBAFuQNDBGR'
+#this is stand-in for a hashcode. Exchange for hashcode later.
+imID = 'IDtag'
 
 #Open image file
 with open('whitehouse.jpeg', 'rb') as image_file:
